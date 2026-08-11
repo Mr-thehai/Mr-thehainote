@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://newzone.top/atom.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://newzone.top/Mr-thehainote/atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
-  <id>https://newzone.top/</id>
-  <title>LearnData 开源笔记</title>
-  <subtitle>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</subtitle>
-  <icon>https://newzone.top/logo.svg</icon>
-  <updated>2026-08-11T05:05:27.121Z</updated>
+  <id>https://newzone.top/Mr-thehainote/</id>
+  <title>马哲海 读书笔记</title>
+  <subtitle>读书笔记、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</subtitle>
+  <icon>https://newzone.top/Mr-thehainote/logo.svg</icon>
+  <updated>2026-08-11T05:27:04.555Z</updated>
   <generator>@vuepress/plugin-feed</generator>
-  <link rel="self" href="https://newzone.top/atom.xml"/>
-  <link rel="alternate" href="https://newzone.top/"/>
+  <link rel="self" href="https://newzone.top/Mr-thehainote/atom.xml"/>
+  <link rel="alternate" href="https://newzone.top/Mr-thehainote/"/>
   <category term="工具"/>
   <category term="使用指南"/>
   <entry>
     <title type="text">博客文章样例 2</title>
-    <id>https://newzone.top/posts/2024-03-02-blog_example2.html</id>
-    <link href="https://newzone.top/posts/2024-03-02-blog_example2.html"/>
+    <id>https://newzone.top/Mr-thehainote/posts/2024-03-02-blog_example2.html</id>
+    <link href="https://newzone.top/Mr-thehainote/posts/2024-03-02-blog_example2.html"/>
     <updated>2026-08-11T05:04:47.000Z</updated>
     <summary type="html"><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。</p>
 ]]></summary>
@@ -24,8 +24,8 @@
   </entry>
   <entry>
     <title type="text">博客文章样例</title>
-    <id>https://newzone.top/posts/2024-03-01-blog_example.html</id>
-    <link href="https://newzone.top/posts/2024-03-01-blog_example.html"/>
+    <id>https://newzone.top/Mr-thehainote/posts/2024-03-01-blog_example.html</id>
+    <link href="https://newzone.top/Mr-thehainote/posts/2024-03-01-blog_example.html"/>
     <updated>2026-08-11T05:04:47.000Z</updated>
     <summary type="html"><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。</p>
 ]]></summary>
