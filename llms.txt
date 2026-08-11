@@ -4,7 +4,7 @@
 
 ## Pages
 
-- [LearnData 开源笔记](https://newzone.top/) - 演示站：你正在浏览 LearnData 模板的默认样态。Use this template 创建仓库后部署得到的就是这套站点框架，按需替换内容即可上线属于自己的知识库。
+- [马哲海读书笔记](https://newzone.top/) - 这里就是我的一系列读书笔记与随笔，不定期更新
 - [博客文章样例](https://newzone.top/_posts/2024-03-01-blog_example.html) - 博客文章内容，支持 Markdown 和 HTML 语言。
 - [博客文章样例 2](https://newzone.top/_posts/2024-03-02-blog_example2.html) - 博客文章内容，支持 Markdown 和 HTML 语言。
 - [必备应用](https://newzone.top/apps/Applist.html) - 正在寻找好用的Windows软件？这份必备应用清单为你精心筛选了从知识管理到设计开发的各类工具。无论你是效率达人还是开发者，都能在这里找到优化工作流的最佳选择。
@@ -18,8 +18,8 @@
 - [马哲海的读书笔记与随笔](https://newzone.top/blog.html) - 晚来天欲雪，能饮一杯无？
 - [加密页面](https://newzone.top/Chinese/encrypt03.html) - 加密样例页面
 - [专题示例](https://newzone.top/Chinese/topic/) - 如果想形成专题文章，并想使用独立侧边栏，则参考本目录使用专题文章。
-- [专题文章1](https://newzone.top/Chinese/topic/topic01.html)
-- [专题文章2](https://newzone.top/Chinese/topic/topic02anytitle.html)
+- [专题文章1](https://newzone.top/Chinese/topic/topic01.html) - 不建议过度囤积婴儿用品，尤其是尿不湿和奶粉。虽然有时会有吸引人的优惠，但我们必须记住，新生儿的成长速度惊人。今天合适的尿不湿尺寸，明天可能就小了。我还记得，老婆的朋友曾大量储备尿不湿，结果没用完。...
+- [专题文章2](https://newzone.top/Chinese/topic/topic02anytitle.html) - 原本想着带娃就是阿姨带着我待着。但真正开始后，为了让娃不近视，每天都需要带娃外出。
 - [文学随笔](https://newzone.top/Chinese/wenxuesuibi.html)
 - [文学史与文学作品](https://newzone.top/Chinese/wenxueyuzuopin.html)
 - [语法学](https://newzone.top/Chinese/yufaxue.html)
@@ -41,14 +41,6 @@
 - [数据库管理](https://newzone.top/deploy/MySQL.html) - 我的数据库是通过 MySQL 和 phpMyAdmin 进行管理的。本页面将记录遇到的日常问题及其解决办法。
 - [静态部署](https://newzone.top/deploy/Static.html) - 静态网站部署全解析。对比主流静态资源库与Vercel等平台，提供GitHub Actions自动同步FTP、OSS实战教程，助你选择并实施高效部署策略。
 - [服务器 VPS](https://newzone.top/deploy/VPS.html) - 部署应用前，为服务器配置好包管理工具，以便节省部署时间。主流的前端包管理工具有 npm、yarn、pnpm、以及国内的镜像 cnpm、tyarn 等，这些包管理器都是基于 nodejs。
-- [加密页面](https://newzone.top/economics/encrypt03.html) - 加密样例页面
-- [专题示例](https://newzone.top/economics/topic/) - 如果想形成专题文章，并想使用独立侧边栏，则参考本目录使用专题文章。
-- [专题文章1](https://newzone.top/economics/topic/topic01.html) - 不建议过度囤积婴儿用品，尤其是尿不湿和奶粉。虽然有时会有吸引人的优惠，但我们必须记住，新生儿的成长速度惊人。今天合适的尿不湿尺寸，明天可能就小了。我还记得，老婆的朋友曾大量储备尿不湿，结果没用完。...
-- [专题文章2](https://newzone.top/economics/topic/topic02anytitle.html) - 原本想着带娃就是阿姨带着我待着。但真正开始后，为了让娃不近视，每天都需要带娃外出。
-- [文学随笔](https://newzone.top/economics/wenxuesuibi.html)
-- [文学史与文学作品](https://newzone.top/economics/wenxueyuzuopin.html)
-- [语法学](https://newzone.top/economics/yufaxue.html)
-- [语言学理论](https://newzone.top/economics/yuyanxuelilun.html)
 - [加密](https://newzone.top/encrypt/) - 加密内容，支持 Markdown 和 HTML 语言。
 - [加密 1](https://newzone.top/encrypt/encrypt01.html) - 加密内容，支持 Markdown 和 HTML 语言。
 - [加密 2](https://newzone.top/encrypt/encrypt02.html) - 加密内容，支持 Markdown 和 HTML 语言。
@@ -57,14 +49,6 @@
 - [个人记录](https://newzone.top/family/Life.html) - 实用生活经验分享。涵盖个人护理（理发、穿搭）、家居妙用（铷磁铁、固定器），及玻璃自爆处理、网线更换等琐事。一系列经过实践检验的小窍门，助你轻松应对日常。
 - [健身计划](https://newzone.top/Fitness.html) - 想找个适合自己的健身计划？本文提供从饮食到室内健身的全方位指南。探索K歌减肥、比目鱼肌俯卧撑等新奇方法，了解靶心率与间歇性断食理论，科学健身，高效塑形！
 - [个人介绍](https://newzone.top/intro.html) - 鬼晓得哦
-- [加密页面](https://newzone.top/math/encrypt03.html) - 加密样例页面
-- [专题示例](https://newzone.top/math/topic/) - 如果想形成专题文章，并想使用独立侧边栏，则参考本目录使用专题文章。
-- [专题文章1](https://newzone.top/math/topic/topic01.html) - 不建议过度囤积婴儿用品，尤其是尿不湿和奶粉。虽然有时会有吸引人的优惠，但我们必须记住，新生儿的成长速度惊人。今天合适的尿不湿尺寸，明天可能就小了。我还记得，老婆的朋友曾大量储备尿不湿，结果没用完。...
-- [专题文章2](https://newzone.top/math/topic/topic02anytitle.html) - 原本想着带娃就是阿姨带着我待着。但真正开始后，为了让娃不近视，每天都需要带娃外出。
-- [文学随笔](https://newzone.top/math/wenxuesuibi.html)
-- [文学史与文学作品](https://newzone.top/math/wenxueyuzuopin.html)
-- [语法学](https://newzone.top/math/yufaxue.html)
-- [语言学理论](https://newzone.top/math/yuyanxuelilun.html)
 - [The 5 AM Club](https://newzone.top/reading/#/0_效率与习惯/The_5_AM_Club) - 早上 5 点 - 8 点，专注做 Personal Project，比如读书、考证、写作和你特别想做的事情。
 - [吃掉那只青蛙](https://newzone.top/reading/#/0_效率与习惯/吃掉那只青蛙) - 《吃掉那只青蛙》的核心是每天先完成重要的工作、吃掉丑陋的青蛙。
 - [福格行为模型](https://newzone.top/reading/#/0_效率与习惯/福格行为模型) - 《福格行为模型》是习惯养成的行为设计学。明确你的愿望或成果，然后尽可能多的罗列行为，最后找到适合你的黄金行为。习惯从微小的行动开始，比如：开煤气灶 - 烧开水 - 煮粥 - 早餐。
