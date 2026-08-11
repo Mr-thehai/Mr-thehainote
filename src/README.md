@@ -5,7 +5,7 @@ description:
 icon: fa6-solid:book-open-reader
 ---
 
-> 你看到的就是马哲海的读书笔记
+> 你在这里将会看到的就是马哲海的一系列读书笔记，与随笔记录
 
 ## 这里是什么
 
@@ -13,7 +13,7 @@ icon: fa6-solid:book-open-reader
 
 接下来要做的：
 
-doing  懒了，搭建老半天。感谢deepseek!
+doing，  然而懒了，搭建老半天。随便在新时代感谢一下deepseek!——来自一位代码渣的心得
 
 ## 反馈与社区
 
