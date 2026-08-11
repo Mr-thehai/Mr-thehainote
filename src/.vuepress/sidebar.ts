@@ -14,9 +14,7 @@ export default sidebar({
       icon: "",
       prefix: "chinese/",
       collapsible: true,
-      children: "structure"
-        },
-      ],
+      children: "structure",
     },
     {
       text: "🌐 数学",
@@ -30,18 +28,14 @@ export default sidebar({
       icon: "",
       prefix: "philogic/",
       collapsible: true,
-      children: "structure"
-        },
-      ],
+      children: "structure",
     },
     {
       text: "🔡 经济学",
       icon: "",
       prefix: "economic/",
       collapsible: true,
-      children: "structure"
-        },
-      ],
+      children: "structure",
     },
     {
       text: "🛖 生活记录",
