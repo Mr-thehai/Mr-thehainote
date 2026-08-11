@@ -12,7 +12,7 @@ export default sidebar({
     {
       text: "🧰 文学",
       icon: "",
-      prefix: "",
+      prefix: "chinese/",
       collapsible: true,
       children: "structure"
         },
@@ -21,14 +21,14 @@ export default sidebar({
     {
       text: "🌐 数学",
       icon: "",
-      prefix: "",
+      prefix: "math/",
       collapsible: true,
       children: "structure",
     },
     {
       text: "🏗️ 物理",
       icon: "",
-      prefix: "",
+      prefix: "philogic/",
       collapsible: true,
       children: "structure"
         },
@@ -37,7 +37,7 @@ export default sidebar({
     {
       text: "🔡 经济学",
       icon: "",
-      prefix: "",
+      prefix: "economic/",
       collapsible: true,
       children: "structure"
         },
