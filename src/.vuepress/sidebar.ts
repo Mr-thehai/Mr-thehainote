@@ -12,62 +12,34 @@ export default sidebar({
     {
       text: "🧰 文学",
       icon: "",
-      prefix: "apps/",
+      prefix: "",
       collapsible: true,
-      children: [
-        "Applist.md",
-        "toolbox.md",
-        "encrypt03.md",
-        {
-          text: "其他",
-          icon: "fa6-solid:code-compare",
-          collapsible: true,
-          children: ["design.md"],
+      children: "structure"
         },
       ],
     },
     {
       text: "🌐 数学",
       icon: "",
-      prefix: "web/",
+      prefix: "",
       collapsible: true,
       children: "structure",
     },
     {
       text: "🏗️ 物理",
       icon: "",
-      prefix: "deploy/",
+      prefix: "",
       collapsible: true,
-      children: [
-        "Static.md",
-        "CloudServices.md",
-        "VPS.md",
-        {
-          text: "历史",
-          icon: "fa6-brands:windows",
-          collapsible: true,
-          children: ["GitHub.md", "Cloudflare.md", "MySQL.md", "DNS.md"],
+      children: "structure"
         },
       ],
     },
     {
       text: "🔡 经济学",
       icon: "",
-      prefix: "code/",
+      prefix: "",
       collapsible: true,
-      children: [
-        "README.md",
-        {
-          text: "Basic",
-          icon: "fa6-solid:cube",
-          collapsible: true,
-          children: ["Markdown.md", "Electron.md", "AutoHotkey.md", "Regex.md"],
-        },
-        {
-          text: "FrondEnd",
-          icon: "fa6-solid:object-group",
-          collapsible: true,
-          children: ["Vue.md", "HTML.md", "Javascript.md", "Python.md"],
+      children: "structure"
         },
       ],
     },
