@@ -10,7 +10,7 @@ export default sidebar({
     { text: "读书笔记", icon: "fa6-brands:readme", link: "https://newzone.top/reading/" },
     // 指定显示页面
     {
-      text: "🧰 应用手册",
+      text: "🧰 文学",
       icon: "",
       prefix: "apps/",
       collapsible: true,
@@ -27,14 +27,14 @@ export default sidebar({
       ],
     },
     {
-      text: "🌐 页面开发",
+      text: "🌐 数学",
       icon: "",
       prefix: "web/",
       collapsible: true,
       children: "structure",
     },
     {
-      text: "🏗️ 网站部署",
+      text: "🏗️ 物理",
       icon: "",
       prefix: "deploy/",
       collapsible: true,
@@ -43,7 +43,7 @@ export default sidebar({
         "CloudServices.md",
         "VPS.md",
         {
-          text: "部署工具",
+          text: "历史",
           icon: "fa6-brands:windows",
           collapsible: true,
           children: ["GitHub.md", "Cloudflare.md", "MySQL.md", "DNS.md"],
@@ -51,7 +51,7 @@ export default sidebar({
       ],
     },
     {
-      text: "🔡 代码编程",
+      text: "🔡 经济学",
       icon: "",
       prefix: "code/",
       collapsible: true,
