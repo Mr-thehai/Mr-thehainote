@@ -1,13 +1,13 @@
 ---
 # 博客首页设置：https://theme-hope.vuejs.press/zh/guide/blog/home.html
-title: LearnData开源笔记博客
-description: 欢迎访问LearnData博客，一个专注自我提升的知识分享平台。探索开源工具、效率方法与心理学，与我一同学习、实践、成长。盛年不重来，让我们即刻开始！
+title: 马哲海的读书笔记与随笔
+description: 晚来天欲雪，能饮一杯无？
 home: true
 layout: Blog
 icon: fa6-solid:house-crack
 # heroImage: /logo.svg
-heroText: LearnData 开源笔记
-tagline: 盛年不重来，一日难再晨
+heroText: 马哲海的读书笔记
+tagline: 晚来天欲雪，能饮一杯无？
 bgImage: https://img.newzone.top/public/home-bg-1.jpg
 heroFullScreen: false
 # projects:
