@@ -10,21 +10,25 @@ export default navbar([
     icon: "fa6-solid:bars-staggered",
     prefix: "/",
     children: [
-      "apps/Applist",
       {
         text: "最近阅读",
         icon: "fa6-brands:chrome",
-        link: "chinese/wenxueyuzuopin/",
+        link: "math/",
       },
       {
         text: "讲义/随笔",
         icon: "",
         prefix: "",
         children: [
+           {
+            text: "教学讲义",
+            icon: "fa6-solid:dice-d20",
+            link: "chinese/",
+          },
           {
             text: "专题示例",
             icon: "fa6-solid:dice-d20",
-            link: "apps/topic/",
+            link: "math/",
           },
         ],
       },
