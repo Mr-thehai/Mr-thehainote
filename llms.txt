@@ -7,23 +7,11 @@
 - [马哲海读书笔记](https://newzone.top/) - 这里就是我的一系列读书笔记与随笔，不定期更新
 - [博客文章样例](https://newzone.top/_posts/2024-03-01-blog_example.html) - 博客文章内容，支持 Markdown 和 HTML 语言。
 - [博客文章样例 2](https://newzone.top/_posts/2024-03-02-blog_example2.html) - 博客文章内容，支持 Markdown 和 HTML 语言。
-- [必备应用](https://newzone.top/apps/Applist.html) - 正在寻找好用的Windows软件？这份必备应用清单为你精心筛选了从知识管理到设计开发的各类工具。无论你是效率达人还是开发者，都能在这里找到优化工作流的最佳选择。
-- [Chrome 扩展](https://newzone.top/apps/Chrome.html) - 想提升Chrome使用效率？这份超强扩展清单，帮你一站式解决标签页管理、网页监控、图片视频下载等需求。精选多款实用插件，全面优化你的浏览体验与工作流。
-- [平面设计](https://newzone.top/apps/design.html) - 想提升设计效率？本文为你精选多款设计利器：从Excalidraw等电子白板，到Eagle图片管理，再到海量免费可商用字体。一站式解决你的设计灵感与工具需求。
-- [加密页面](https://newzone.top/apps/encrypt03.html) - 加密样例页面
-- [开源工具](https://newzone.top/apps/toolbox.html) - 探索强大的开源工具宝库！本清单精选了Whisper语音识别、CodeFormer图像修复、AutoCut视频剪辑等效率神器。无论你是否是开发者，都能在这里找到提升生产力的解决方案。
-- [专题示例](https://newzone.top/apps/topic/) - 如果想形成专题文章，并想使用独立侧边栏，则参考本目录使用专题文章。
-- [专题文章1](https://newzone.top/apps/topic/topic01.html) - 不建议过度囤积婴儿用品，尤其是尿不湿和奶粉。虽然有时会有吸引人的优惠，但我们必须记住，新生儿的成长速度惊人。今天合适的尿不湿尺寸，明天可能就小了。我还记得，老婆的朋友曾大量储备尿不湿，结果没用完。...
-- [专题文章2](https://newzone.top/apps/topic/topic02anytitle.html) - 原本想着带娃就是阿姨带着我待着。但真正开始后，为了让娃不近视，每天都需要带娃外出。
 - [马哲海的读书笔记与随笔](https://newzone.top/blog.html) - 晚来天欲雪，能饮一杯无？
-- [加密页面](https://newzone.top/Chinese/encrypt03.html) - 加密样例页面
-- [专题示例](https://newzone.top/Chinese/topic/) - 如果想形成专题文章，并想使用独立侧边栏，则参考本目录使用专题文章。
-- [专题文章1](https://newzone.top/Chinese/topic/topic01.html) - 不建议过度囤积婴儿用品，尤其是尿不湿和奶粉。虽然有时会有吸引人的优惠，但我们必须记住，新生儿的成长速度惊人。今天合适的尿不湿尺寸，明天可能就小了。我还记得，老婆的朋友曾大量储备尿不湿，结果没用完。...
-- [专题文章2](https://newzone.top/Chinese/topic/topic02anytitle.html) - 原本想着带娃就是阿姨带着我待着。但真正开始后，为了让娃不近视，每天都需要带娃外出。
-- [文学随笔](https://newzone.top/Chinese/wenxuesuibi.html)
-- [文学史与文学作品](https://newzone.top/Chinese/wenxueyuzuopin.html)
-- [语法学](https://newzone.top/Chinese/yufaxue.html)
-- [语言学理论](https://newzone.top/Chinese/yuyanxuelilun.html)
+- [中篇小说](https://newzone.top/chinese/个人小说/中篇小说.html) - - 《礼物》
+- [短篇小说集](https://newzone.top/chinese/个人小说/短篇小说.html) - - 《小镇青年》
+- [世界文学史](https://newzone.top/chinese/文学史/世界文学史.html) - - 荷马史诗
+- [中国文学史](https://newzone.top/chinese/文学史/中国文学史.html) - - 《诗经》
 - [Coding](https://newzone.top/code/) - 想入门编程或提升技能？这份指南为你规划全栈学习路径：从Vue/React前端到Node.js后端，再到AutoHotkey自动化脚本。精选实用IDE与在线编辑器推荐，助你构建完整技术栈。
 - [AutoHotkey](https://newzone.top/code/AutoHotkey.html) - 想让Windows操作更高效？本文从基础语法到热键设置，详解AutoHotkey核心应用。提供丰富实战脚本样例，助你轻松实现程序速启、弹窗控制等自动化操作，大幅提升工作效率。
 - [Electron](https://newzone.top/code/Electron.html) - 想用Web技术开发桌面应用？Electron是你的首选。详解环境部署与builder打包流程，提供解决打包报错、跨系统构建等问题的实战指南，助你上手跨平台开发。
@@ -48,7 +36,15 @@
 - [健康饮食](https://newzone.top/family/Diet.html) - 科学饮食全攻略！从调整进食顺序、培养良好习惯，到分享零食饮料选择和冷泡燕麦做法。更有源自《程序员延寿指南》的健康理论和21天减肥食谱，助你吃出健康好身材。
 - [个人记录](https://newzone.top/family/Life.html) - 实用生活经验分享。涵盖个人护理（理发、穿搭）、家居妙用（铷磁铁、固定器），及玻璃自爆处理、网线更换等琐事。一系列经过实践检验的小窍门，助你轻松应对日常。
 - [健身计划](https://newzone.top/Fitness.html) - 想找个适合自己的健身计划？本文提供从饮食到室内健身的全方位指南。探索K歌减肥、比目鱼肌俯卧撑等新奇方法，了解靶心率与间歇性断食理论，科学健身，高效塑形！
-- [个人介绍](https://newzone.top/intro.html) - 鬼晓得哦
+- [数学学习笔记](https://newzone.top/math/) - 欢迎来到数学知识库！
+- [微分方程](https://newzone.top/math/代数学/微分方程.html) - - 可分离变量
+- [抽象代数](https://newzone.top/math/代数学/抽代.html) - - 群的基本概念
+- [数学分析](https://newzone.top/math/代数学/数分.html) - - 数列极限
+- [线性代数](https://newzone.top/math/代数学/线代.html) - - 矩阵运算
+- [微分几何](https://newzone.top/math/几何学/微分几何.html) - - 参数曲线
+- [解析几何](https://newzone.top/math/几何学/解析几何.html) - - 直线与圆
+- [数理统计](https://newzone.top/math/概率与统计/数理统计.html)
+- [概率论](https://newzone.top/math/概率与统计/概率论.html) - - 事件运算
 - [The 5 AM Club](https://newzone.top/reading/#/0_效率与习惯/The_5_AM_Club) - 早上 5 点 - 8 点，专注做 Personal Project，比如读书、考证、写作和你特别想做的事情。
 - [吃掉那只青蛙](https://newzone.top/reading/#/0_效率与习惯/吃掉那只青蛙) - 《吃掉那只青蛙》的核心是每天先完成重要的工作、吃掉丑陋的青蛙。
 - [福格行为模型](https://newzone.top/reading/#/0_效率与习惯/福格行为模型) - 《福格行为模型》是习惯养成的行为设计学。明确你的愿望或成果，然后尽可能多的罗列行为，最后找到适合你的黄金行为。习惯从微小的行动开始，比如：开煤气灶 - 烧开水 - 煮粥 - 早餐。
