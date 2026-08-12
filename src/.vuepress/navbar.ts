@@ -14,7 +14,7 @@ export default navbar([
       {
         text: "最近阅读",
         icon: "fa6-brands:chrome",
-        link: "chinese/wenxueyuzuopin",
+        link: "chinese/wenxueyuzuopin/",
       },
       {
         text: "讲义/随笔",

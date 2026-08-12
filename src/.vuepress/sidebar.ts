@@ -12,16 +12,24 @@ export default sidebar({
     {
       text: "🧰 文学",
       icon: "",
-      prefix: "chinese/",
+      prefix: "/chinese/",
       collapsible: true,
-      children: "structure",
+      children: [ 
+        "文学史",    //三大文学史.md
+        "文学作品",
+      ]
     },
     {
       text: "🌐 数学",
       icon: "",
       prefix: "math/",
       collapsible: true,
-      children: "structure",
+      children: [ 
+        "线代",    //
+        "数分",
+        "抽代",
+        "微分几何",
+      ]
     },
     {
       text: "🏗️ 物理",
